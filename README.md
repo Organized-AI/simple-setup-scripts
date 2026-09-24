@@ -131,3 +131,7 @@ MIT License - Feel free to use this for your hackathons and events!
 Created for smooth hackathon experiences. No more spending the first hour of your event on environment setup!
 
 For questions or support, reach out to the organizing team.
+
+---
+
+Maintained by Jordaaan Hill ([LinkedIn](https://www.linkedin.com/in/jordaaanhill)).
